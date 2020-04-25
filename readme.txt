@@ -1,5 +1,5 @@
-										Advanced Analytics
-							    			     Abstract
+						Advanced Analytics
+						     Abstract
 Topic: COVID-19 Analysis and Prediction
 Team Memebers: Kamali S - 16PD14
 	       Devishri V - 16PD06

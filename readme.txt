@@ -28,3 +28,7 @@ Visualisation
 - Considering India COVID data alone, visuals are done
 - Finding top states that are most affected by COVID and plotting thier distribution
 - Based on Total samples, how positive and negative count varies
+
+- PowerBI file is not opening here
+- Try opening it with PowerBI tool itself
+- It's pdf version is named COVID_Visualisation.pdf

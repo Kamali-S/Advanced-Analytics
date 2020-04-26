@@ -24,6 +24,9 @@ Prediction
 
 Visualisation
 - The affected countires are plotted in a map to get a overview of the world using folium
+	- It is not opening in this editor
+	- Use the link mentioned below to have full view of work 
+	- https://www.kaggle.com/kamalisrinivasan/covid-19 
 - Confirmed_Cases by month
 	- Bar chart explaining the spread of COVID monthwise all over world
 - Upcoming visualisations are based on COVID_19_in_India dataset

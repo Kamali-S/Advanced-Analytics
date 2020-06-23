@@ -1,9 +1,5 @@
-						Advanced Analytics
-						     Abstract
-Topic: COVID-19 Analysis and Prediction
-Team Memebers: Kamali S - 16PD14
-	       Devishri V - 16PD06
 
+![alt text](D:\8th_sem\Advanced_Analytics\package)
 Description:
 Analysis
 - Countrywise finding the top 10 countries which has the most number of cases

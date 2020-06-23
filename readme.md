@@ -1,5 +1,3 @@
-
-![alt text](D:\8th_sem\Advanced_Analytics\package)
 Description:
 Analysis
 - Countrywise finding the top 10 countries which has the most number of cases

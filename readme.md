@@ -1,3 +1,5 @@
+![Screenshot](COVID-19.png)
+
 Description:
 Analysis
 - Countrywise finding the top 10 countries which has the most number of cases
